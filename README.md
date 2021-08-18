@@ -1,0 +1,1 @@
+This is Mango-Doge's first git project!
